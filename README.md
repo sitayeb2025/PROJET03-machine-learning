@@ -45,7 +45,7 @@ Projet3_machine_learning/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/Projet3_machine_learning.git
+git clone https://github.com/sitayeb2025/PROJET03-machine-learning.git
 cd Projet3_machine_learning
 ```
 
