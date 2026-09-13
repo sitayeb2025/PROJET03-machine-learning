@@ -28,7 +28,8 @@ Projet3_machine_learning/
 │   └── dashboard.py                # Visualisation / restitution des résultats
 ├── src/
 │   └── download_data.py            # Script de téléchargement des données brutes
-├── reports/                        # Exports, graphiques, résultats
+├── reports.Documentation 
+    └── documentation_projet CHURN.docx      # Exports, graphiques, résultats
 ├── venv/                           # Environnement virtuel Python (non versionné)
 ├── .gitignore
 ├── README.md
@@ -46,7 +47,7 @@ Projet3_machine_learning/
 
 ```bash
 git clone https://github.com/sitayeb2025/PROJET03-machine-learning.git
-cd PROJET03-machine-learning-mai
+cd PROJET03-machine-learning-main
 ```
 
 ### 2. Créer et activer l'environnement virtuel
