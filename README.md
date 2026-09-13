@@ -46,7 +46,7 @@ Projet3_machine_learning/
 
 ```bash
 git clone https://github.com/sitayeb2025/PROJET03-machine-learning.git
-cd Projet3_machine_learning
+cd PROJET03-machine-learning-mai
 ```
 
 ### 2. Créer et activer l'environnement virtuel
@@ -120,5 +120,6 @@ Vérifie la fiabilité du modèle final (validation croisée + test final) avant
 ### Étape 5 — Visualiser les résultats
 
 ```bash
+cd notebooks
 streamlit run dashboard.py
 ```
